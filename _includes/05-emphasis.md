@@ -1,0 +1,8 @@
+- **This is bold**
+- __This is also bold__
+- *This is italic*
+- _This is also italic_
+- ***This is bold and italic***
+- ___This is also bold and italic___
+- __This is *Italic* in bold__
+- _This is **BOLD** in italic_
